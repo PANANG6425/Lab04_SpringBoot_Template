@@ -334,4 +334,4 @@ git push origin main
 - [ ] Push โค้ดพร้อมข้อมูลของตัวเองขึ้น GitHub
 - [ ] แสดง commit history อย่างน้อย 2 commits
 - [ ] Screenshot Browser ที่เรียก `/api/hello` และ `/api/info`
-- [ ] ส่งไฟล์ PDF ชื่อ `Lab03_xxxxSec#.pdf`
+- [ ] ส่งไฟล์ PDF ชื่อ `Lab04_xxxxSec#.pdf`
